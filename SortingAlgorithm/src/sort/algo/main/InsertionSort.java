@@ -5,7 +5,7 @@ public class InsertionSort {
 	/**
 	 * @author ashish.bhavsar
 	 * Time complexity for bubble sort is O(n^2)
-	 * @param a
+	 * @param Integer array
 	 * @return
 	 */
 	public static void sort(int []a){
